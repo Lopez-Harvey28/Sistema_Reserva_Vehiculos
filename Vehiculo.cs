@@ -13,7 +13,7 @@ namespace Sistema_Reserva_Vehiculos
 
         public class Descuento
         {
-            public const double Descuento_Membresia = 0.1; //10% d descuento
+            public const double Descuento_Membresia = 0.1; //10% de descuento
             public const double Descuento_FinAño = 0.15; //15% de descuento
             public const double Descuento_NewModel = 0.2; //20% de descuento
             public const double Descuento_Promocion = 0.05; //5% de descuento

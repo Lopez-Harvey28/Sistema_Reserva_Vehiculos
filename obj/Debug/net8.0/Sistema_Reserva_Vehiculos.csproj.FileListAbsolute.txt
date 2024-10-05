@@ -1,0 +1,15 @@
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\bin\Debug\net8.0\Sistema_Reserva_Vehiculos.exe
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\bin\Debug\net8.0\Sistema_Reserva_Vehiculos.deps.json
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\bin\Debug\net8.0\Sistema_Reserva_Vehiculos.runtimeconfig.json
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\bin\Debug\net8.0\Sistema_Reserva_Vehiculos.dll
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\bin\Debug\net8.0\Sistema_Reserva_Vehiculos.pdb
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\obj\Debug\net8.0\Sistema_Reserva_Vehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\obj\Debug\net8.0\Sistema_Reserva_Vehiculos.AssemblyInfoInputs.cache
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\obj\Debug\net8.0\Sistema_Reserva_Vehiculos.AssemblyInfo.cs
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\obj\Debug\net8.0\Sistema_Reserva_Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\obj\Debug\net8.0\Sistema_Reserva_Vehiculos.sourcelink.json
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\obj\Debug\net8.0\Sistema_Reserva_Vehiculos.dll
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\obj\Debug\net8.0\refint\Sistema_Reserva_Vehiculos.dll
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\obj\Debug\net8.0\Sistema_Reserva_Vehiculos.pdb
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\obj\Debug\net8.0\Sistema_Reserva_Vehiculos.genruntimeconfig.cache
+C:\Users\hjlr2\source\repos\Sistema_Reserva_Vehiculos\Sistema_Reserva_Vehiculos\obj\Debug\net8.0\ref\Sistema_Reserva_Vehiculos.dll
