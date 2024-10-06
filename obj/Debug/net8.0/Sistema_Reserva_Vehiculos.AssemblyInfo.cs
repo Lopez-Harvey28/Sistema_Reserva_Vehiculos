@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema_Reserva_Vehiculos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0300ef44a320247fba04809ef1ee243596164dc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7ab3004808ebb3d7bea84e96de1f2766ee1f493")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema_Reserva_Vehiculos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema_Reserva_Vehiculos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

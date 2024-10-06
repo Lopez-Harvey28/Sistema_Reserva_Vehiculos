@@ -14,8 +14,8 @@ namespace Sistema_Reserva_Vehiculos
         public static void MostrarInformacion(this Vehiculo vehiculo,int option)
         {
             Console.WriteLine("*====*====* Información del vehículo *====*====*");
-            Console.WriteLine($"*---> Modelo: {vehiculo.Modelo}\n*---> Precio: {vehiculo.Precio}");
-            Console.WriteLine($"*--> Precio con descuento aplicado: {Vehiculo.Descuento.AplicarDescuento(vehiculo.Precio,option)}");
+            Console.WriteLine($"*---> Modelo: {vehiculo.Modelo}\n*---> Precio: C${vehiculo.Precio}");
+            Console.WriteLine($"*--> Precio con descuento aplicado: C${Vehiculo.Descuento.AplicarDescuento(vehiculo.Precio,option)}");
         }
     }
 }
