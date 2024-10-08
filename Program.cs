@@ -39,8 +39,23 @@ namespace Sistema_Reserva_Vehiculos
                         Console.WriteLine("3. *--> Descuento de nuevo modelo: 20%\n4. *--> Descuento de promoción: 5%");
                         Console.Write("* Opción *--> ");
                         int option = Convert.ToInt32(Console.ReadLine());
+                        int dias = 0;
+                        do
+                        {
+                            Console.Write("\n*====*====> Ingrese el número de días que durará la reserva: ");
+                            dias = Convert.ToInt32(Console.ReadLine());
+                            if (dias < 1)
+                            {
+                                Console.WriteLine("Número de días no válido, intente de nuevo...");
+                                continue;
+                            }
+                            aux++;
+                        }
+                        while (aux == 1);
+                        
                         Console.WriteLine();
-                        Informacion_Vehiculo.MostrarInformacion(vehiculo, option);
+                        Informacion_Vehiculo.MostrarInformacion(vehiculo, option,dias);
+
                         break;
                     case 2:
                         j = false;
